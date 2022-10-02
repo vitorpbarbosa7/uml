@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-02T16:25:23.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="5qqgcQrX2YCO-JGEKZIQ" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-02T17:27:55.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="SN-AKAoogPK14WtgqrJg" version="20.4.0" type="github">
   <diagram id="0lys-ttTPNtbnL8NX8Hn" name="Page-1">
-    <mxGraphModel dx="850" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="850" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,6 +73,15 @@
             <Array as="points">
               <mxPoint x="735" y="290" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joFtvmCm0wm_D8hbK9rN-22" value="Trip" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="joFtvmCm0wm_D8hbK9rN-23" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="joFtvmCm0wm_D8hbK9rN-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="145" y="610" as="sourcePoint" />
+            <mxPoint x="310" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
